@@ -1,0 +1,201 @@
+The mean of the approximated centralities of the graphG is: 0.19764359101081444
+The mean of the approximated centralities of the 1 random graph is: 0.20494705094546775
+The mean of the approximated centralities of the 1 random graph that takes in consideration the degree of the nodes is: 0.004514051509202231
+The mean of the approximated centralities of the 2 random graph is: 0.20459369534540994
+The mean of the approximated centralities of the 2 random graph that takes in consideration the degree of the nodes is: 0.0039174155299816675
+The mean of the approximated centralities of the 3 random graph is: 0.20443017808931047
+The mean of the approximated centralities of the 3 random graph that takes in consideration the degree of the nodes is: 0.004376265358520275
+The mean of the approximated centralities of the 4 random graph is: 0.20464811583170583
+The mean of the approximated centralities of the 4 random graph that takes in consideration the degree of the nodes is: 0.004126288846261344
+The mean of the approximated centralities of the 5 random graph is: 0.20480450855871207
+The mean of the approximated centralities of the 5 random graph that takes in consideration the degree of the nodes is: 0.0038243187498871057
+The mean of the approximated centralities of the 6 random graph is: 0.2047458958859903
+The mean of the approximated centralities of the 6 random graph that takes in consideration the degree of the nodes is: 0.004248657176527233
+The mean of the approximated centralities of the 7 random graph is: 0.20503192734960987
+The mean of the approximated centralities of the 7 random graph that takes in consideration the degree of the nodes is: 0.004216420017919229
+The mean of the approximated centralities of the 8 random graph is: 0.2049144587522305
+The mean of the approximated centralities of the 8 random graph that takes in consideration the degree of the nodes is: 0.0044247739066364845
+The mean of the approximated centralities of the 9 random graph is: 0.2046885812964538
+The mean of the approximated centralities of the 9 random graph that takes in consideration the degree of the nodes is: 0.0044687138329120284
+The mean of the approximated centralities of the 10 random graph is: 0.2045994255640373
+The mean of the approximated centralities of the 10 random graph that takes in consideration the degree of the nodes is: 0.003756939681040432
+The mean of the approximated centralities of the 11 random graph is: 0.20490750952279854
+The mean of the approximated centralities of the 11 random graph that takes in consideration the degree of the nodes is: 0.0046513098655061105
+The mean of the approximated centralities of the 12 random graph is: 0.20446830941148725
+The mean of the approximated centralities of the 12 random graph that takes in consideration the degree of the nodes is: 0.003474067140003397
+The mean of the approximated centralities of the 13 random graph is: 0.20481680310226916
+The mean of the approximated centralities of the 13 random graph that takes in consideration the degree of the nodes is: 0.0038743313774403914
+The mean of the approximated centralities of the 14 random graph is: 0.2050227925538739
+The mean of the approximated centralities of the 14 random graph that takes in consideration the degree of the nodes is: 0.004170092361893843
+The mean of the approximated centralities of the 15 random graph is: 0.20482485740917078
+The mean of the approximated centralities of the 15 random graph that takes in consideration the degree of the nodes is: 0.0033943255918373713
+The mean of the approximated centralities of the 16 random graph is: 0.20469386624698951
+The mean of the approximated centralities of the 16 random graph that takes in consideration the degree of the nodes is: 0.004430270690545573
+The mean of the approximated centralities of the 17 random graph is: 0.20487478237930887
+The mean of the approximated centralities of the 17 random graph that takes in consideration the degree of the nodes is: 0.004487880126857015
+The mean of the approximated centralities of the 18 random graph is: 0.20436418835148726
+The mean of the approximated centralities of the 18 random graph that takes in consideration the degree of the nodes is: 0.0032657719058643473
+The mean of the approximated centralities of the 19 random graph is: 0.20472828766938456
+The mean of the approximated centralities of the 19 random graph that takes in consideration the degree of the nodes is: 0.003630149073986448
+The mean of the approximated centralities of the 20 random graph is: 0.20440066497545542
+The mean of the approximated centralities of the 20 random graph that takes in consideration the degree of the nodes is: 0.003752779059835785
+The mean of the approximated centralities of the 21 random graph is: 0.20430909406794676
+The mean of the approximated centralities of the 21 random graph that takes in consideration the degree of the nodes is: 0.0042038495057637616
+The mean of the approximated centralities of the 22 random graph is: 0.2044639965571916
+The mean of the approximated centralities of the 22 random graph that takes in consideration the degree of the nodes is: 0.0035981950958565404
+The mean of the approximated centralities of the 23 random graph is: 0.20538182330280585
+The mean of the approximated centralities of the 23 random graph that takes in consideration the degree of the nodes is: 0.004019144990578472
+The mean of the approximated centralities of the 24 random graph is: 0.20446082711862962
+The mean of the approximated centralities of the 24 random graph that takes in consideration the degree of the nodes is: 0.003942449929514321
+The mean of the approximated centralities of the 25 random graph is: 0.20432906298742218
+The mean of the approximated centralities of the 25 random graph that takes in consideration the degree of the nodes is: 0.003614920870043672
+The mean of the approximated centralities of the 26 random graph is: 0.2049908434629992
+The mean of the approximated centralities of the 26 random graph that takes in consideration the degree of the nodes is: 0.0035401275567374583
+The mean of the approximated centralities of the 27 random graph is: 0.20442111646848463
+The mean of the approximated centralities of the 27 random graph that takes in consideration the degree of the nodes is: 0.0037520088979861427
+The mean of the approximated centralities of the 28 random graph is: 0.20372475752517766
+The mean of the approximated centralities of the 28 random graph that takes in consideration the degree of the nodes is: 0.0039532596982669015
+The mean of the approximated centralities of the 29 random graph is: 0.20392540323344244
+The mean of the approximated centralities of the 29 random graph that takes in consideration the degree of the nodes is: 0.004091931685052641
+The mean of the approximated centralities of the 30 random graph is: 0.2049010471306816
+The mean of the approximated centralities of the 30 random graph that takes in consideration the degree of the nodes is: 0.004366495691659558
+The mean of the approximated centralities of the 31 random graph is: 0.20511127911809482
+The mean of the approximated centralities of the 31 random graph that takes in consideration the degree of the nodes is: 0.003429152017958648
+The mean of the approximated centralities of the 32 random graph is: 0.20464716079057546
+The mean of the approximated centralities of the 32 random graph that takes in consideration the degree of the nodes is: 0.003600626136157756
+The mean of the approximated centralities of the 33 random graph is: 0.20507463265628056
+The mean of the approximated centralities of the 33 random graph that takes in consideration the degree of the nodes is: 0.003722566342751476
+The mean of the approximated centralities of the 34 random graph is: 0.20429215584584282
+The mean of the approximated centralities of the 34 random graph that takes in consideration the degree of the nodes is: 0.0037379040229919007
+The mean of the approximated centralities of the 35 random graph is: 0.20485677437236932
+The mean of the approximated centralities of the 35 random graph that takes in consideration the degree of the nodes is: 0.004161986428136554
+The mean of the approximated centralities of the 36 random graph is: 0.20520867219434663
+The mean of the approximated centralities of the 36 random graph that takes in consideration the degree of the nodes is: 0.003664575099593894
+The mean of the approximated centralities of the 37 random graph is: 0.20483969954035716
+The mean of the approximated centralities of the 37 random graph that takes in consideration the degree of the nodes is: 0.004096667464235863
+The mean of the approximated centralities of the 38 random graph is: 0.20454496715202133
+The mean of the approximated centralities of the 38 random graph that takes in consideration the degree of the nodes is: 0.0039028897535703932
+The mean of the approximated centralities of the 39 random graph is: 0.2047831465574417
+The mean of the approximated centralities of the 39 random graph that takes in consideration the degree of the nodes is: 0.003988721275621513
+The mean of the approximated centralities of the 40 random graph is: 0.20470822967724014
+The mean of the approximated centralities of the 40 random graph that takes in consideration the degree of the nodes is: 0.004359260175784547
+The mean of the approximated centralities of the 41 random graph is: 0.20452722756234898
+The mean of the approximated centralities of the 41 random graph that takes in consideration the degree of the nodes is: 0.0037453888289022542
+The mean of the approximated centralities of the 42 random graph is: 0.20489518142120355
+The mean of the approximated centralities of the 42 random graph that takes in consideration the degree of the nodes is: 0.003827638051524919
+The mean of the approximated centralities of the 43 random graph is: 0.2048760230063203
+The mean of the approximated centralities of the 43 random graph that takes in consideration the degree of the nodes is: 0.0038013679108724863
+The mean of the approximated centralities of the 44 random graph is: 0.2047931634351825
+The mean of the approximated centralities of the 44 random graph that takes in consideration the degree of the nodes is: 0.003872945745110079
+The mean of the approximated centralities of the 45 random graph is: 0.2045511065648642
+The mean of the approximated centralities of the 45 random graph that takes in consideration the degree of the nodes is: 0.0035750347062056495
+The mean of the approximated centralities of the 46 random graph is: 0.2042061538056219
+The mean of the approximated centralities of the 46 random graph that takes in consideration the degree of the nodes is: 0.0037134004751098603
+The mean of the approximated centralities of the 47 random graph is: 0.20472811297752028
+The mean of the approximated centralities of the 47 random graph that takes in consideration the degree of the nodes is: 0.004233838982772639
+The mean of the approximated centralities of the 48 random graph is: 0.20485770685961618
+The mean of the approximated centralities of the 48 random graph that takes in consideration the degree of the nodes is: 0.004287890170799098
+The mean of the approximated centralities of the 49 random graph is: 0.20446174607866358
+The mean of the approximated centralities of the 49 random graph that takes in consideration the degree of the nodes is: 0.004050586171377916
+The mean of the approximated centralities of the 50 random graph is: 0.20546328426551777
+The mean of the approximated centralities of the 50 random graph that takes in consideration the degree of the nodes is: 0.0041896175381980144
+The mean of the approximated centralities of the 51 random graph is: 0.20468150880760516
+The mean of the approximated centralities of the 51 random graph that takes in consideration the degree of the nodes is: 0.003663119659575994
+The mean of the approximated centralities of the 52 random graph is: 0.20481655484220057
+The mean of the approximated centralities of the 52 random graph that takes in consideration the degree of the nodes is: 0.004447637146511854
+The mean of the approximated centralities of the 53 random graph is: 0.204718570408068
+The mean of the approximated centralities of the 53 random graph that takes in consideration the degree of the nodes is: 0.0036356257226490534
+The mean of the approximated centralities of the 54 random graph is: 0.20433493074360298
+The mean of the approximated centralities of the 54 random graph that takes in consideration the degree of the nodes is: 0.0034391809653299076
+The mean of the approximated centralities of the 55 random graph is: 0.20500326705898747
+The mean of the approximated centralities of the 55 random graph that takes in consideration the degree of the nodes is: 0.004463234502768831
+The mean of the approximated centralities of the 56 random graph is: 0.20410489273902413
+The mean of the approximated centralities of the 56 random graph that takes in consideration the degree of the nodes is: 0.003816420371822763
+The mean of the approximated centralities of the 57 random graph is: 0.20449661291240465
+The mean of the approximated centralities of the 57 random graph that takes in consideration the degree of the nodes is: 0.003786560862107456
+The mean of the approximated centralities of the 58 random graph is: 0.2039507035344093
+The mean of the approximated centralities of the 58 random graph that takes in consideration the degree of the nodes is: 0.0035237631473261782
+The mean of the approximated centralities of the 59 random graph is: 0.20489600056527885
+The mean of the approximated centralities of the 59 random graph that takes in consideration the degree of the nodes is: 0.00386440220701265
+The mean of the approximated centralities of the 60 random graph is: 0.20565754145030055
+The mean of the approximated centralities of the 60 random graph that takes in consideration the degree of the nodes is: 0.004301588311022529
+The mean of the approximated centralities of the 61 random graph is: 0.20427672556869772
+The mean of the approximated centralities of the 61 random graph that takes in consideration the degree of the nodes is: 0.004258169239025874
+The mean of the approximated centralities of the 62 random graph is: 0.20514693279726887
+The mean of the approximated centralities of the 62 random graph that takes in consideration the degree of the nodes is: 0.004019764519833955
+The mean of the approximated centralities of the 63 random graph is: 0.20478227879218214
+The mean of the approximated centralities of the 63 random graph that takes in consideration the degree of the nodes is: 0.0039098225586642445
+The mean of the approximated centralities of the 64 random graph is: 0.20475582665120245
+The mean of the approximated centralities of the 64 random graph that takes in consideration the degree of the nodes is: 0.0036985808140486175
+The mean of the approximated centralities of the 65 random graph is: 0.20467722300645083
+The mean of the approximated centralities of the 65 random graph that takes in consideration the degree of the nodes is: 0.004311496789227461
+The mean of the approximated centralities of the 66 random graph is: 0.20489952421090935
+The mean of the approximated centralities of the 66 random graph that takes in consideration the degree of the nodes is: 0.003573863564184716
+The mean of the approximated centralities of the 67 random graph is: 0.20436713581897376
+The mean of the approximated centralities of the 67 random graph that takes in consideration the degree of the nodes is: 0.004155868245976675
+The mean of the approximated centralities of the 68 random graph is: 0.20451629694255197
+The mean of the approximated centralities of the 68 random graph that takes in consideration the degree of the nodes is: 0.0039656988103736026
+The mean of the approximated centralities of the 69 random graph is: 0.204394309416254
+The mean of the approximated centralities of the 69 random graph that takes in consideration the degree of the nodes is: 0.004598888361675558
+The mean of the approximated centralities of the 70 random graph is: 0.20460835155623863
+The mean of the approximated centralities of the 70 random graph that takes in consideration the degree of the nodes is: 0.004038221162124512
+The mean of the approximated centralities of the 71 random graph is: 0.2046736796713139
+The mean of the approximated centralities of the 71 random graph that takes in consideration the degree of the nodes is: 0.004721620480278202
+The mean of the approximated centralities of the 72 random graph is: 0.20512970732111127
+The mean of the approximated centralities of the 72 random graph that takes in consideration the degree of the nodes is: 0.0041965163421029475
+The mean of the approximated centralities of the 73 random graph is: 0.2046050401534389
+The mean of the approximated centralities of the 73 random graph that takes in consideration the degree of the nodes is: 0.0037945000582708045
+The mean of the approximated centralities of the 74 random graph is: 0.20475346951206955
+The mean of the approximated centralities of the 74 random graph that takes in consideration the degree of the nodes is: 0.004580770409995183
+The mean of the approximated centralities of the 75 random graph is: 0.20458643552598021
+The mean of the approximated centralities of the 75 random graph that takes in consideration the degree of the nodes is: 0.004005522246651904
+The mean of the approximated centralities of the 76 random graph is: 0.2045911087764908
+The mean of the approximated centralities of the 76 random graph that takes in consideration the degree of the nodes is: 0.004034180508456347
+The mean of the approximated centralities of the 77 random graph is: 0.20437741544124083
+The mean of the approximated centralities of the 77 random graph that takes in consideration the degree of the nodes is: 0.004220032844847288
+The mean of the approximated centralities of the 78 random graph is: 0.2044350132629681
+The mean of the approximated centralities of the 78 random graph that takes in consideration the degree of the nodes is: 0.004307035574697462
+The mean of the approximated centralities of the 79 random graph is: 0.20490444398998411
+The mean of the approximated centralities of the 79 random graph that takes in consideration the degree of the nodes is: 0.004500375014244601
+The mean of the approximated centralities of the 80 random graph is: 0.20491166274700837
+The mean of the approximated centralities of the 80 random graph that takes in consideration the degree of the nodes is: 0.002975859403437737
+The mean of the approximated centralities of the 81 random graph is: 0.20485074211581103
+The mean of the approximated centralities of the 81 random graph that takes in consideration the degree of the nodes is: 0.004678646580291438
+The mean of the approximated centralities of the 82 random graph is: 0.20451568351329957
+The mean of the approximated centralities of the 82 random graph that takes in consideration the degree of the nodes is: 0.004102616815897419
+The mean of the approximated centralities of the 83 random graph is: 0.20508479375646826
+The mean of the approximated centralities of the 83 random graph that takes in consideration the degree of the nodes is: 0.0043138494248917
+The mean of the approximated centralities of the 84 random graph is: 0.2049286259717158
+The mean of the approximated centralities of the 84 random graph that takes in consideration the degree of the nodes is: 0.004311442653292724
+The mean of the approximated centralities of the 85 random graph is: 0.20445363705398859
+The mean of the approximated centralities of the 85 random graph that takes in consideration the degree of the nodes is: 0.00436129300611282
+The mean of the approximated centralities of the 86 random graph is: 0.20477955084801466
+The mean of the approximated centralities of the 86 random graph that takes in consideration the degree of the nodes is: 0.0031907374170551703
+The mean of the approximated centralities of the 87 random graph is: 0.20489693774159604
+The mean of the approximated centralities of the 87 random graph that takes in consideration the degree of the nodes is: 0.0047089163009925265
+The mean of the approximated centralities of the 88 random graph is: 0.2049811604686675
+The mean of the approximated centralities of the 88 random graph that takes in consideration the degree of the nodes is: 0.00385624250066618
+The mean of the approximated centralities of the 89 random graph is: 0.2041708555135348
+The mean of the approximated centralities of the 89 random graph that takes in consideration the degree of the nodes is: 0.0045274222606915045
+The mean of the approximated centralities of the 90 random graph is: 0.2044994187237351
+The mean of the approximated centralities of the 90 random graph that takes in consideration the degree of the nodes is: 0.004317390659217719
+The mean of the approximated centralities of the 91 random graph is: 0.20474543516385868
+The mean of the approximated centralities of the 91 random graph that takes in consideration the degree of the nodes is: 0.0039500963649721004
+The mean of the approximated centralities of the 92 random graph is: 0.203796466732039
+The mean of the approximated centralities of the 92 random graph that takes in consideration the degree of the nodes is: 0.0037226469848297065
+The mean of the approximated centralities of the 93 random graph is: 0.2050056322865877
+The mean of the approximated centralities of the 93 random graph that takes in consideration the degree of the nodes is: 0.004298169590632346
+The mean of the approximated centralities of the 94 random graph is: 0.20394056252241466
+The mean of the approximated centralities of the 94 random graph that takes in consideration the degree of the nodes is: 0.004020702443146762
+The mean of the approximated centralities of the 95 random graph is: 0.2048011687689623
+The mean of the approximated centralities of the 95 random graph that takes in consideration the degree of the nodes is: 0.004629432598219129
+The mean of the approximated centralities of the 96 random graph is: 0.20479976290293708
+The mean of the approximated centralities of the 96 random graph that takes in consideration the degree of the nodes is: 0.004134710428699312
+The mean of the approximated centralities of the 97 random graph is: 0.20490315913375562
+The mean of the approximated centralities of the 97 random graph that takes in consideration the degree of the nodes is: 0.0047674032860045325
+The mean of the approximated centralities of the 98 random graph is: 0.20459921716081297
+The mean of the approximated centralities of the 98 random graph that takes in consideration the degree of the nodes is: 0.003937937194357761
+The mean of the approximated centralities of the 99 random graph is: 0.20451832545415588
+The mean of the approximated centralities of the 99 random graph that takes in consideration the degree of the nodes is: 0.00436190855675031
+The mean of the approximated centralities of the 100 random graph is: 0.20490920832068518
+The mean of the approximated centralities of the 100 random graph that takes in consideration the degree of the nodes is: 0.004282025147582632
